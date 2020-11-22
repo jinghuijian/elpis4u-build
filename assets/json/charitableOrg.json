@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Davis Community Meals",
+        "org_type": "Social services",
+        "food_available": true,
+        "clothes_available": false,
+        "event": "",
+        "place_info": {
+            "address": "1111 H St, Davis, CA 95616",
+            "latitude": 38.55484,
+            "longitude": -121.74167,
+            "hours": "8AM-12PM",
+            "contact_info": "(530) 753-9204",
+            "policy": ""
+        },
+        "facility": {
+            "wifi_available": true,
+            "computer_num": 0,
+            "outlet_available": true,
+            "table_num": 10
+        }
+    },
+    {
+        "name": "Freedom From Hunger",
+        "org_type": "Non-profit organization",
+        "food_available": true,
+        "clothes_available": false,
+        "event": "“Oh Yay! It’s Wednesday” Second Wednesday of each month!\n\n“Oh Yay! It’s Wednesday” is a supper club for younger and young-ish folks looking to build a sense of community through good food, fun, and stimulating conversation.  We gather at 6:00 pm (ish), and we try to finish around 8:30 pm. We’ll start a gently guided conversation on things that matter to us at around 7:15 pm in case folks with little ones need to get home to kids. \n\nThis is a community meal, so we share in creating it.  We’d like you to bring an item to share with others.  We want to foster a healthy lifestyle, so please consider low sugar, organic or otherwise farm-to-table foods.",
+        "place_info": {
+            "address": "1460 Drew Ave #300, Davis, CA 95618",
+            "latitude": 38.54345,
+            "longitude": -121.72675,
+            "hours": "9AM-5PM",
+            "contact_info": "(530) 758-6200",
+            "policy": ""
+        },
+        "facility": {
+            "wifi_available": true,
+            "computer_num": 0,
+            "outlet_available": false,
+            "table_num": 15
+        }
+    },
+    {
+        "name": "Davis Community Network",
+        "org_type": "Non-profit organization",
+        "food_available": false,
+        "clothes_available": false,
+        "event": "",
+        "place_info": {
+            "address": "1623 5th St, Davis, CA 95616",
+            "latitude": 38.54903,
+            "longitude": -121.73234,
+            "hours": "9AM-9PM",
+            "contact_info": "(530) 750-1170",
+            "policy": ""
+        },
+        "facility": {
+            "wifi_available": true,
+            "computer_num": 5,
+            "outlet_available": true,
+            "table_num": 10
+        }
+    },
+    {
+        "name": "First Church-Christ Scientist",
+        "org_type": "Church",
+        "food_available": true,
+        "clothes_available": true,
+        "event": "",
+        "place_info": {
+            "address": "510 6th Street, Davis, CA 95616",
+            "latitude": 38.54809,
+            "longitude": -121.74322,
+            "hours": "9AM-3PM",
+            "contact_info": "(530) 753-5253",
+            "policy": ""
+        },
+        "facility": {
+            "wifi_available": false,
+            "computer_num": 0,
+            "outlet_available": false,
+            "table_num": 5
+        }
+    },
+    {
+        "name": "Davis Community Church",
+        "org_type": "Church",
+        "food_available": true,
+        "clothes_available": true,
+        "event": "“Oh Yay! It’s Wednesday” Second Wednesday of each month!\n\n“Oh Yay! It’s Wednesday” is a supper club for younger and young-ish folks looking to build a sense of community through good food, fun, and stimulating conversation.  We gather at 6:00 pm (ish), and we try to finish around 8:30 pm. We’ll start a gently guided conversation on things that matter to us at around 7:15 pm in case folks with little ones need to get home to kids. \n\nThis is a community meal, so we share in creating it.  We’d like you to bring an item to share with others.  We want to foster a healthy lifestyle, so please consider low sugar, organic or otherwise farm-to-table foods.",
+        "place_info": {
+            "address": "412 C St, Davis, CA 95616",
+            "latitude": 38.54618,
+            "longitude": -121.74363,
+            "hours": "9AM-3PM",
+            "contact_info": "(530) 753-2894",
+            "policy": ""
+        },
+        "facility": {
+            "wifi_available": false,
+            "computer_num": 0,
+            "outlet_available": false,
+            "table_num": 5
+        }
+    }
+]

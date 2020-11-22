@@ -1,0 +1,92 @@
+[
+    {
+        "name": "LifeMoves",
+        "bed_num": 28,
+        "shower_num": 5,
+        "wardrobe_available": true,
+        "food_available": true,
+        "place_info": {
+            "address": "1022 Gibson Rd, Woodland, CA 95695",
+            "latitude": 38.66205,
+            "longitude": -121.7667,
+            "hours": "12AM-12PM",
+            "contact_info": "(530) 867-9340",
+            "policy": "-"
+        }
+    },
+    {
+        "name": "HomeCenter",
+        "bed_num": 18,
+        "shower_num": 3,
+        "wardrobe_available": false,
+        "food_available": false,
+        "place_info": {
+            "address": "1106 Cottonwood Ct, Davis, CA 95618",
+            "latitude": 38.54207,
+            "longitude": -121.69652,
+            "hours": "6AM-11PM",
+            "contact_info": "(530) 759-1234",
+            "policy": "-"
+        }
+    },
+    {
+        "name": "Davis Community Housing",
+        "bed_num": 20,
+        "shower_num": 5,
+        "wardrobe_available": false,
+        "food_available": true,
+        "place_info": {
+            "address": "1125 H St, Davis, CA 95616",
+            "latitude": 38.55603,
+            "longitude": -121.74167,
+            "hours": "7AM-11PM",
+            "contact_info": "(530) 753-9204",
+            "policy": "-"
+        }
+    },
+    {
+        "name": "Next Move Homeless Service",
+        "bed_num": 25,
+        "shower_num": 8,
+        "wardrobe_available": true,
+        "food_available": true,
+        "place_info": {
+            "address": "1640 E 8th St, Davis, CA 95616",
+            "latitude": 38.55337,
+            "longitude": -121.73139,
+            "hours": "12AM-12PM",
+            "contact_info": "(530) 564-4474",
+            "policy": "-"
+        }
+    },
+    {
+        "name": "HomeFirst - Davis Youth Center",
+        "bed_num": 30,
+        "shower_num": 8,
+        "wardrobe_available": true,
+        "food_available": true,
+        "place_info": {
+            "address": "646 Buchanan St, Davis, CA 95616",
+            "latitude": 38.54953,
+            "longitude": -121.77119,
+            "hours": "12AM-12PM",
+            "contact_info": "(408) 539-2180",
+            "policy": "-"
+        }
+    },
+    {
+        "name": "4th And Hope",
+        "bed_num": 15,
+        "shower_num": 3,
+        "wardrobe_available": true,
+        "food_available": true,
+        "place_info": {
+            "address": "207 4th St, Woodland, CA 95695",
+            "latitude": 38.67984,
+            "longitude": -121.76925,
+            "hours": "6AM-10PM",
+            "contact_info": "(530) 661-1218",
+            "policy": "-"
+        }
+    }
+]
